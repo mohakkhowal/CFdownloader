@@ -15,7 +15,7 @@ Place the downloaded **"chromedriver.exe"** in the downloaded clone of this repo
 
 ## **NOTE :**
 --Windows user might get warning pop-up, click on "More Info" and then "Run Anyway" button. <br/>
---The execution time has been has been optimised to work accordingly for users with slow internet connection. In case you want to make the Script run faster, You can edit it in the "Script.py" file.<br/>
+--The execution time has been has been set fast. **💡For users with slow internet connection, in case you want to make the Script run slower, You can edit it in the "Script.py" file.💡**<br/>
 --Since Codeforces website gets updated frequently, you might encounter WebDriver errors. In that case, PLEASE raise an issue with related ScreenShots!
 
 ### **After successful execution :**
