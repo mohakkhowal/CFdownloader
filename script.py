@@ -96,7 +96,7 @@ while(True):
     f.close()
     try:
         driver.find_element_by_link_text('→').click()
-        time.sleep(3)
+        time.sleep(2)
     except Exception as e:
         print("Next Page unavailable\n")
         break
@@ -107,7 +107,7 @@ links = open("accepted_code_link.txt",'r')
 for x in links:
     try:
         driver.get(x)
-        time.sleep(5)
+        time.sleep(2)
         driver.find_element_by_class_name('source-copier').click()
         wholeCode = pyperclip.paste()
         wholeCode = wholeCode.replace("\r","")
