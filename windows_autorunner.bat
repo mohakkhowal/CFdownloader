@@ -1,6 +1,6 @@
 :start
 cls
-echo ********** Installing Dependancies **********
+echo ********** Installing Dependencies **********
 set INPUT= "dependency.txt"
 echo INPUT
 py -m pip install -r %INPUT%
