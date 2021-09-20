@@ -126,3 +126,4 @@ for x in links:
         continue
 
 print("TASK COMPLETED!!!!!!!!!\nPlease Star the repo if you liked")   
+driver.quit()
