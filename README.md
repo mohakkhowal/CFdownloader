@@ -29,9 +29,11 @@ Your Accepted code files will be saved in "CODES" folder inside the same Folder!
 <br/>
 
 ### **Screenshots:**
-<img src = "ss/1.jpg"><br/><br/>
-<img src = "ss/2.jpg"><br/><br/>
-<img src = "ss/3.jpg"><br/><br/>
+![](ss/1.jpg)
+
+![](ss/2.jpg)
+
+![](ss/3.jpg) 
 
 
 
